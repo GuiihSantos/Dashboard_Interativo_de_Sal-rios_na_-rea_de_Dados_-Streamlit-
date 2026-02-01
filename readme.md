@@ -1,6 +1,6 @@
 ### 🎲 Dashboard de Análise de Salários na Área de Dados
 
-LINK
+https://imersao-dados-python-26-guilherme.streamlit.app/
 
 Este projeto faz parte da Imersão Dados com Python II, o objetivo é construir um Dashboard interativo com Streamlit, uma biblioteca Python que simplifica a criação de aplicações web voltadas para ciência de dados. O dashboard desenvolvido permite:
 
